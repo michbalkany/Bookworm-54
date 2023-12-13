@@ -25,6 +25,9 @@ struct ContentView: View {
                         }
                     }
                 }
+                .sheet(isPresented: $showingAddScreen) {
+                    AddBookView()
+                }
         }
     }
 }
