@@ -61,8 +61,8 @@
 		C5392E492B28B096008524EF /* Bookworm-day53 */ = {
 			isa = PBXGroup;
 			children = (
-				C5C87B252B2A148F000A5E68 /* AddBookView.swift */,
 				C5392E4A2B28B096008524EF /* Bookworm_day53App.swift */,
+				C5C87B252B2A148F000A5E68 /* AddBookView.swift */,
 				C5C87B232B2A1361000A5E68 /* Book.swift */,
 				C5392E4C2B28B096008524EF /* ContentView.swift */,
 				C5C87B2B2B2A2748000A5E68 /* DetailView.swift */,
